@@ -17,3 +17,5 @@
 
 (2019)- Quantum supremacy in 2019 google claimed to have achieved quantum supremacy demonstrating that a quantum computer could perform a specific task faster than the most powerful classical computers this milestone highlighted the power of quantum computing for solving specific types of problems, quantum error correction advancements researchers  have made significant progress in quantum error correction developing new methods for detecting and fixing errors in quantum systems that is a vital step toward creating fault tolerance quantum computers the future of quantum computing research the future of quantum computing is very promising because as it is improving researchers are focusing on developing quantum software and practical applications, from drug discovery to financial modelling and optimization problems.  
 
+Testing
+
