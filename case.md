@@ -17,3 +17,8 @@
 
 (2019)- Quantum supremacy in 2019 google claimed to have achieved quantum supremacy demonstrating that a quantum computer could perform a specific task faster than the most powerful classical computers this milestone highlighted the power of quantum computing for solving specific types of problems, quantum error correction advancements researchers  have made significant progress in quantum error correction developing new methods for detecting and fixing errors in quantum systems that is a vital step toward creating fault tolerance quantum computers the future of quantum computing research the future of quantum computing is very promising because as it is improving researchers are focusing on developing quantum software and practical applications, from drug discovery to financial modelling and optimization problems.  
 
+Viewpoint 1, scientific perspective.
+this vewpoint looks at how scientific discovieries shaped the outcome and future of all computer based advancements, as computing has always relied on science in order to evolve, using mathmatics for the logic, physics for the electrical componants and so on.
+
+in 1821, Babbages design was based on finite differences, a mathmatical method used to calculate fuctions through repeated addition, which removed the need for multiplication and division, which was a very smart scientific sulution at the time. His machine was built as an attempt to apply mathmatical theory to practical tasks, but due to the time and the scientific limitations his machine was not precise enough to match the mathmatical requirments. Even with the limitations he faced and the machine never being finished, it proved the theory that mathmatics could be mechanised, the fundamental base of computer science
+
