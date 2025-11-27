@@ -17,7 +17,7 @@
 
 (2019)- Quantum supremacy in 2019 google claimed to have achieved quantum supremacy demonstrating that a quantum computer could perform a specific task faster than the most powerful classical computers this milestone highlighted the power of quantum computing for solving specific types of problems, quantum error correction advancements researchers  have made significant progress in quantum error correction developing new methods for detecting and fixing errors in quantum systems that is a vital step toward creating fault tolerance quantum computers the future of quantum computing research the future of quantum computing is very promising because as it is improving researchers are focusing on developing quantum software and practical applications, from drug discovery to financial modelling and optimization problems.  
 
-Viewpoint 1, scientific perspective
+# Viewpoint 1, scientific perspective
 
 we will look at this study and view the scientific principles around each advancement, as computing has always relied on science, with mathmatics for algorithms, physics for the electrical components and the information theory for communication and data structure.
 
@@ -38,7 +38,7 @@ In 2019, Quantum Computing became a popular practice, as it relies entirely on q
 
 This scientific viepoint shows that computing is like any other scientific field, with a continous chain of discoveries rather than singled out inventions, with mathmatics, physics and information theory being the real foundational drivers behind computing evelution. Throughout history science has not just backed up scientific discoveries of computing, but defined what computers could become at every stage.
 
-#Ethical reflections and improvement
+# Ethical reflections and improvement
 As computing progresses with ages , ethical concerns emerged as part of the challenges faced in the computing industry.  The early ethic challenges were seen as early as the 1950s by  Norbert Wiener . He was most concerned that people will tend to rely too much on machines and at the end they would end up without jobs. Even at present this remains a concern as they As a philosopher he wrote about how human would later rely too much on machines and the problems that are likely to be caused by such. In his book he explored the impact of machines in the society as a whole. Wiener , N (1950) postulates that, “Our advancements in technology have created new opportunities along with new restrictions.” This further explains his ideas about how people would be out of jobs. also stated that if the machine are not properly supervised, they will end up exceeding the human ability. He states that there is a danger in trusting something that doesn’t think abstractly. That is the social responsibilities of the scientists and engineers. 
 
 
