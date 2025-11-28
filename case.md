@@ -82,19 +82,36 @@ Norbert Wiener The Human Use of Human Beings (1950)
 https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
  Paul H Silvergate 2021 https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
 Charles Babbage engine 
+
 https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum 
 ENIAC 
+
 https://www.computerhistory.org/revolution/birth-of-the-computer/4/78 
+
 https://www.eniac.vc/writings/remembering-the-eniac-six 
+
 Transistors 
-Bardeen, J., Brattain, W., Shockley, W., & Bell Labs. (n.d.). Computer Science – Evolution of Computers in Society. In Early Computers and Computing Technology. https://curriculumonline.ie/getmedia/718bd569-5822-4795-b606-fc659c7159fb/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-solid-state.pdf 
-The evolution of transistors: from vacuum tubes to modern semiconductors | Syntero blog. (n.d.). https://syntero.webflow.io/blog/the-evolution-of-transistors-from-vacuum-tubes-to-modern-semiconductors 
+Bardeen, J., Brattain, W., Shockley, W., & Bell Labs. (n.d.). Computer Science – Evolution of Computers in Society. In Early Computers and Computing Technology. 
+https://curriculumonline.ie/getmedia/718bd569-5822-4795-b606-fc659c7159fb/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-solid-state.pdf 
+
+The evolution of transistors: from vacuum tubes to modern semiconductors | Syntero blog. (n.d.). 
+
+https://syntero.webflow.io/blog/the-evolution-of-transistors-from-vacuum-tubes-to-modern-semiconductors 
+
 Integrated circuit (IC)  
+
 https://anysilicon.com/history-integrated-circuit/ 
+
 Quantum Supremacy 
-Quantum supremacy SpinQ Quantum Computer | Quantum Computing Company | SpinQ technology. (n.d.). https://www.spinquanta.com/news-detail/quantum-computing-research-pioneering-the-future-of-tech202501161051 
+
+Quantum supremacy SpinQ Quantum Computer | Quantum Computing Company | SpinQ technology. (n.d.). 
+
+https://www.spinquanta.com/news-detail/quantum-computing-research-pioneering-the-future-of-tech202501161051 
+
 World wide web 
+
 Connolly, C. (2025, May 21). Understanding the World Wide Web in 2024: Evolution and future. ProfileTree Web Design and Digital Marketing. https://profiletree.com/what-is-the-world-wide-web/ 
+
 Alan Turing. (1936). Computer Science – Evolution of computers in society. https://curriculumonline.ie/getmedia/96dfcf0a-8373-48d3-9662-714ab8c8a428/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-the-turing-machine.pdf?utm_source=chatgpt.com 
 
 
