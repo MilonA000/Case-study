@@ -79,8 +79,13 @@ In conclusion, the noted computer innovations from the first that was innovated 
 
 ## References:
 Norbert Wiener The Human Use of Human Beings (1950)
+
 https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
- Paul H Silvergate 2021 https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
+
+Paul H Silvergate 2021 
+
+https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
+
 Charles Babbage engine 
 
 https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum 
