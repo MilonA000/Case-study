@@ -1,4 +1,4 @@
-## Historical development
+# Historical development
 
 ## Introduction 
 
