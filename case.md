@@ -1,11 +1,9 @@
 # Historical development
 
 ## Introduction 
-
 The introduction of computers brought civilization to the whole world with so much to offer to other industries. From the beginning of the first machine that was invented to date there had been a notable milestone improvement. The report traces the timeline of machine innovation from the beginning to present day. The report was discussed from a scientific and mathematical viewpoint which also traces the history of the machines in the specific sectors. The ethic reflections were discussed explaining the challenges that have been faced and the future improvements already in place to avoid the ethical challenges note with relevant examples were given.  
 
 ## Historical development and timeline of key events
-
 (1821)- Charles Babbage first announced the invention of the difference engine in his first calculating paper on 14 June 1822, with about 2000 parts the difference engine number 1 was built by his engineer and master toolmaker Joseph Clement and completed in 1832. This finished portion of the unfinished engine is only one seventh of the complete design. Difference engine Num 2 between 1847 and 1849 Babbage designed a new engine which benefitted from the techniques developed for the more demanding analytical engine, the design was more efficient, requiring one third the number of parts of the first difference engine. 
 
 In (1936)- computer science and machine learning can be traced back to ideas and early protocols such as Babbage's calculating engine in the early 19th century or Hollerith's punch card system from the end of the 19th century. There is however a strong case that Alan Turing machine laid the foundation for the development of computer science and machine learning in 1936. Alan Turing invented a mathematical model of a universal machine, which later became known as a Turing machine despite how simple it was, the Turing machine could be constructed to solve and given computer algorithm. This was the first concept of a universal all-purpose computing machine. It provided computer science with a firm scientific foundation, since it offered a model of computation which could be tested against real world applications.
@@ -21,7 +19,6 @@ In (1936)- computer science and machine learning can be traced back to ideas and
 (2019)- Quantum supremacy in 2019 google claimed to have achieved quantum supremacy demonstrating that a quantum computer could perform a specific task faster than the most powerful classical computers this milestone highlighted the power of quantum computing for solving specific types of problems, quantum error correction advancements researchers  have made significant progress in quantum error correction developing new methods for detecting and fixing errors in quantum systems that is a vital step toward creating fault tolerance quantum computers the future of quantum computing research the future of quantum computing is very promising because as it is improving researchers are focusing on developing quantum software and practical applications, from drug discovery to financial modelling and optimization problems.  
 
 ## Scientific perspective
-
 This study looks and views the scientific principles around each advancement, as computing has always relied on science, with mathematics for algorithms, physics for the electrical components and the information theory for communication and data structure.
 
 In 1821, Charles Babbage’s design was based on finite differences, a mathematical method for calculating functions using repeated addition. This removed the need for multiplication and division, a very useful breakthrough in the field of science at the time. His machine was an attempt to apply pure mathematical theory to practical tasks, but the scientific limitations of the time help back his ideas, since the mechanical precision was not good enough for the mathematical requirements and the materials of the early 19th century brought issues regarding friction and durability. Even unfinished, the Difference Machine proved that mathematics could be mechanized, the fundamental idea behind computer science.
@@ -54,17 +51,16 @@ Computers were not invented as fast as overnight. Computers were made slowly as 
 (2019) Quantum Supremacy In 2019, Google showed us that a quantum computer can solve a specific problem faster than any normal computer. That's called quantum supremacy. Quantum computing uses physics instead of the normal binary mathematics. It may help with future problems like medicine, science, and finance.
 
 
-## Ethical reflections and improvement
+### Ethical reflections and improvement
 As computing progresses with ages, ethical concerns emerged as part of the challenges faced in the computing industry. In the mathematics and in the scientific world there has been a lot of ethical challenges faced by stake holders in embracing technology and they have impacted the industries negatively. The early ethic challenges were seen as early as the 1950s by Wiener N, who was most concerned that people will tend to rely too much on machines and that with time the ,machines will exceed huma ability. Walter M, (1970) also urged that computer technology created unique ethical problems that require new moral principles and policies. The three main challenges that have been faced in the history of computing are algorithmic bias and fairness, accountability and transparency, digital divide and Access inequality.
 
-## Algorithmic Bias and Fairness:
+### Algorithmic Bias and Fairness:
 Artificial intelligence models and algorithms are fundamental in science and in mathematics. These are developed by people and trained through existing patterns. These may be biased and produce biased results which end up affecting the stakeholders. An example is the hiring system that most companies where artificial intelligence is used to sample out the best fit candidate for the job from scanning through their curriculum vitae’s. As this system has been a good tool for companies, it has however proved of its inaccuracy and some people most deserving of the job get rejected due to their presentation on their curriculum vitae. It the becomes unfair to the industry and the jobseekers. Another example is the bank loan approvals system which follows the pattern of what was fed into it and therefore disadvantage other parts of the society.  
 
-## Accountability and transparency
-
+### Accountability and transparency
 Some of the advanced artificial intelligence technologies are difficult to understand and interpret. This creates uncertainty and mistrust since there is no one to take responsibility. The explanations or whatsoever in terms of how an algorithm decisions were made hence it is difficult to fix the errors, bias and to also ensure fairness  Hence if anything is to go wrong, there is no one to be held accountable for the outcomes of it. The automatic systems can make a mistake or cause harm for example in the healthcare industry if a patient is mis-diagnosed there can be fatal outcomes, and there is a controversy as to who is to be blamed whether the developers or the users or the system, this then becomes an ethical legal issue.
 
-#Digital divide and Access inequality
+### Digital divide and Access inequality
 The progression of technology in science and mathematics solely aims at improving data driven insights in healthcare, education and finance, however these resources are not available to all the stakeholders. There is a notable gap between the people in the technical industry and other society members. This causes socio-economic discrimination as the few people who are informed technologically tend to benefit more than the others. As of Ireland’s 2026 Budget there is €618 million is allocated to in the Department of Enterprise, to establish new offices and other technological infrastructure. Technology has become a necessity, and governments are investing more into it than other sectors not only in Ireland but all over Europe and other continents too. The new technologies that are introduced are getting more advanced and complicated making it difficult for people who are not in the industry to understand and they end up not benefiting from them. Environmentally, it has been voiced out that the new technological machines that are used in mining are harmful to the environment.
  
 ## Future improvements
@@ -72,7 +68,7 @@ Since technology is part of our societies at present, despite its cons it has he
 
 
 ## Conclusion
-In conclusion, the noted computer innovations from the first that was innovated until present day. The discussion focused on two main viewpoints, the scientific and the mathematical. The timelines were explained step by step. Challenges that have merged with technology were noted and explained with examples where necessary. Lastly there are some future recommendations put in place to avoid the ethical challenges that are already in place. 
+In conclusion, the noted computer innovations from the first that was innovated until present day. The discussion focused on two main viewpoints, the scientific and the mathematical. The timelines were explained step by step. Challenges that have emerged with technology were noted and explained with examples where necessary. Lastly there are some future recommendations put in place to avoid the ethical challenges that are already in place. 
 
 ## References:
 Norbert Wiener The Human Use of Human Beings (1950)
