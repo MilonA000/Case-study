@@ -117,8 +117,12 @@ https://www.spinquanta.com/news-detail/quantum-computing-research-pioneering-the
 
 World wide web 
 
-Connolly, C. (2025, May 21). Understanding the World Wide Web in 2024: Evolution and future. ProfileTree Web Design and Digital Marketing. https://profiletree.com/what-is-the-world-wide-web/ 
+Connolly, C. (2025, May 21). Understanding the World Wide Web in 2024: Evolution and future. ProfileTree Web Design and Digital Marketing. 
 
-Alan Turing. (1936). Computer Science – Evolution of computers in society. https://curriculumonline.ie/getmedia/96dfcf0a-8373-48d3-9662-714ab8c8a428/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-the-turing-machine.pdf?utm_source=chatgpt.com 
+https://profiletree.com/what-is-the-world-wide-web/ 
+
+Alan Turing. (1936). Computer Science – Evolution of computers in society. 
+
+https://curriculumonline.ie/getmedia/96dfcf0a-8373-48d3-9662-714ab8c8a428/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-the-turing-machine.pdf?utm_source=chatgpt.com 
 
 
