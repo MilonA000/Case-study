@@ -84,6 +84,7 @@ https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
 Charles Babbage engine 
 
 https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum 
+
 ENIAC 
 
 https://www.computerhistory.org/revolution/birth-of-the-computer/4/78 
@@ -92,6 +93,7 @@ https://www.eniac.vc/writings/remembering-the-eniac-six
 
 Transistors 
 Bardeen, J., Brattain, W., Shockley, W., & Bell Labs. (n.d.). Computer Science – Evolution of Computers in Society. In Early Computers and Computing Technology. 
+
 https://curriculumonline.ie/getmedia/718bd569-5822-4795-b606-fc659c7159fb/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-solid-state.pdf 
 
 The evolution of transistors: from vacuum tubes to modern semiconductors | Syntero blog. (n.d.). 
