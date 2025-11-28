@@ -60,24 +60,24 @@ Computers were not invented as fast as overnight. Computers were made slowly as 
 ## Ethical reflections and improvement
 As computing progresses with ages, ethical concerns emerged as part of the challenges faced in the computing industry. In the mathematics and in the scientific world there has been a lot of ethical challenges faced by stake holders in embracing technology and they have impacted the industries negatively. The early ethic challenges were seen as early as the 1950s by Wiener N, who was most concerned that people will tend to rely too much on machines and that with time the ,machines will exceed huma ability. Walter M, (1970) also urged that computer technology created unique ethical problems that require new moral principles and policies. The three main challenges that have been faced in the history of computing are algorithmic bias and fairness, accountability and transparency, digital divide and Access inequality.
 
-#Algorithmic Bias and Fairness:
+## Algorithmic Bias and Fairness:
 Artificial intelligence models and algorithms are fundamental in science and in mathematics. These are developed by people and trained through existing patterns. These may be biased and produce biased results which end up affecting the stakeholders. An example is the hiring system that most companies where artificial intelligence is used to sample out the best fit candidate for the job from scanning through their curriculum vitae’s. As this system has been a good tool for companies, it has however proved of its inaccuracy and some people most deserving of the job get rejected due to their presentation on their curriculum vitae. It the becomes unfair to the industry and the jobseekers. Another example is the bank loan approvals system which follows the pattern of what was fed into it and therefore disadvantage other parts of the society.  
 
-#Accountability and transparency
+## Accountability and transparency
 
 Some of the advanced artificial intelligence technologies are difficult to understand and interpret. This creates uncertainty and mistrust since there is no one to take responsibility. The explanations or whatsoever in terms of how an algorithm decisions were made hence it is difficult to fix the errors, bias and to also ensure fairness  Hence if anything is to go wrong, there is no one to be held accountable for the outcomes of it. The automatic systems can make a mistake or cause harm for example in the healthcare industry if a patient is mis-diagnosed there can be fatal outcomes, and there is a controversy as to who is to be blamed whether the developers or the users or the system, this then becomes an ethical legal issue.
 
 #Digital divide and Access inequality
 The progression of technology in science and mathematics solely aims at improving data driven insights in healthcare, education and finance, however these resources are not available to all the stakeholders. There is a notable gap between the people in the technical industry and other society members. This causes socio-economic discrimination as the few people who are informed technologically tend to benefit more than the others. As of Ireland’s 2026 Budget there is €618 million is allocated to in the Department of Enterprise, to establish new offices and other technological infrastructure. Technology has become a necessity, and governments are investing more into it than other sectors not only in Ireland but all over Europe and other continents too. The new technologies that are introduced are getting more advanced and complicated making it difficult for people who are not in the industry to understand and they end up not benefiting from them. Environmentally, it has been voiced out that the new technological machines that are used in mining are harmful to the environment.
  
-##Future improvements
+## Future improvements
 Since technology is part of our societies at present, despite its cons it has helped improve daily lives at large. A few strategies have been put in place since the early 50s to try and contain technologies in an ethical manner. There have been improvements in terms of rules and codes of conducts, however with the way the technological industry is growing there is need for more restrictions. 2021 et.al postulates that “The technology industry is also becoming more introspective, examining its own ethical principles, and exploring how to better manage its size and authority”. This shows that the industry understands the lack of accountability in artificial intelligence and aims at improving each sector. In terms of the environment, there is currently a push in of tech companies to be more involved in energy re usage and to sustain the environment. Companies like Amazon, HubSpot, google just to mention a few have already embraced the idea. In artificial intelligence, increasingly important that AI-powered systems operate under principles that benefit society and avoid issues with bias, fairness, transparency, and explainability. To address issues that have been seen tech industry players establish advisory panels, guiding principles, and the sponsoring of academic programs.
 
 
-##Conclusion
+## Conclusion
 In conclusion, the noted computer innovations from the first that was innovated until present day. The discussion focused on two main viewpoints, the scientific and the mathematical. The timelines were explained step by step. Challenges that have merged with technology were noted and explained with examples where necessary. Lastly there are some future recommendations put in place to avoid the ethical challenges that are already in place. 
 
-##References:
+## References:
 Norbert Wiener The Human Use of Human Beings (1950)
 https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
  Paul H Silvergate 2021 https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
