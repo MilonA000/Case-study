@@ -38,6 +38,32 @@ In 2019, Quantum Computing became a popular practice, as it relies entirely on q
 
 This scientific viepoint shows that computing is like any other scientific field, with a continous chain of discoveries rather than singled out inventions, with mathmatics, physics and information theory being the real foundational drivers behind computing evelution. Throughout history science has not just backed up scientific discoveries of computing, but defined what computers could become at every stage.
 
+
+# Viewpoint 2, Mathematical perspective 
+# By Hafsa Mansoor 
+
+Computers were not invented as fast as overnight. Computers were made slowly as people were trying to make them using mathematics and engineering to build ways to solve problems. 
+
+ (1821-1832) Charles Babbage and the difference engine 
+Charles Babbage had made the Difference machine  to fix mistakes in mathematical ways. The machine used a method of maths called finite differences (basically lets you calculate values using repeated addition). This made the machine easier to make and more dependable than human calculation. A simple working part with around 2,000 pieces had been built in 1832 and had proved to us that mechanical maths was possible. 
+
+ (1936) Alan Turing and the Turing Machine 
+Alan Turing announced the Turing Machine,a mathematical model which shows that any algorithm can indeed be carried out step by step. This idea of his demonstrated what computers can and also cannot calculate.This became the base of computer science and really helped shape modern computing and AI. 
+
+ (1945) ENIAC First Large Electronic Computer 
+ENIAC was the first large electronic computer. It resolved complex maths problems such as differential equations for artillery. Considering it used vaccum tubes and not mechanical parts, it could calculate much faster than older machines. Six women programmers played a key part in making it all work. 
+
+ (1947) The Transistor 
+The creation of the transistor in 1947 started the digital age. What a transistor is; it basically acts like a tiny switch for electrical signals. It made binary logic (0s and 1s) possible in small fast machines. This replaced vaccum tubes and guided to modern electronics. 
+
+(1989) The World Wide Web (WWW) 
+Tim Berners-Lee created the World Wide Web to make information easier to share across all computers. He had invented HTTP, HTML and URLs. The web changed everything like communication, learning, business, and daily life by making information available anywhere at all. 
+
+ (2019) Quantum Supremacy 
+In 2019, Google showed us that a quantum computer can solve a specific problem faster than any normal computer. That's called quantum supremacy. Quantum computing uses physics instad of the normal binary maths. It may help with future problems like medicine, science, and finance. 
+
+
+
 # Ethical reflections and improvement
 As computing progresses with ages , ethical concerns emerged as part of the challenges faced in the computing industry.  The early ethic challenges were seen as early as the 1950s by  Norbert Wiener . He was most concerned that people will tend to rely too much on machines and at the end they would end up without jobs. Even at present this remains a concern as they As a philosopher he wrote about how human would later rely too much on machines and the problems that are likely to be caused by such. In his book he explored the impact of machines in the society as a whole. Wiener , N (1950) postulates that, “Our advancements in technology have created new opportunities along with new restrictions.” This further explains his ideas about how people would be out of jobs. also stated that if the machine are not properly supervised, they will end up exceeding the human ability. He states that there is a danger in trusting something that doesn’t think abstractly. That is the social responsibilities of the scientists and engineers. 
 
