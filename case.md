@@ -1,7 +1,14 @@
 # Historical development
 
 ## Introduction 
-The introduction of computers brought civilization to the whole world with so much to offer to other industries. From the beginning of the first machine that was invented to date there had been a notable milestone improvement. The report traces the timeline of machine innovation from the beginning to present day. The report was discussed from a scientific and mathematical viewpoint which also traces the history of the machines in the specific sectors. The ethic reflections were discussed explaining the challenges that have been faced and the future improvements already in place to avoid the ethical challenges note with relevant examples were given.  
+
+The journey that mankind has taken in developing computing is an incredible journey consisting of thousands of years, in which mankind has explored many different disciplines: science, engineering, mathematics and technology. The progression from mechanical calculating machines from the 1800's through to today's quantum and digital computers has represented a convergence of theoretical and practical discovery, scientific experimentation, and mathematical abstraction. The three documents presented explore these developments in light of the historical evolution of machines and systems, the scientific perspective about how physical, logical, and informational principles made the rise of computing possible, and the mathematical perspective on how abstract concepts were turned into functional devices and computational architectures.
+
+This timeline begins with Charles Babbage, whose difference engines demonstrated for the first time that mathematical operations could be mechanised, introducing a revolutionary way of thinking about calculation. The study will lead you to Alan Turing's work on his theoretical model for computability and will offer you a theoretical model for creating algorithms or developing software applications that follow Turing's theoretical principles for the creation and execution of computer programs. The development of ENIAC was one of the first models of electronic computers, creating an explosion of advancement from the mechanical to electronic and from there, to modern computing technology based on Turing's theoretical principles. Additionally, the development of the transistor and integrated circuits has drastically increased the speed, size, and capability of computers when comparing the capacity of the mechanical computers created before Turing developed his theoretical model.
+
+The rise of the World Wide Web signifies a major change in how people worldwide are able to connect with one another and exchange data. Quantum Computing created a new method of thinking about computing - one based on the concepts of Quantum Mechanics.
+
+Technology drives the advancement of computing; however, the ethical aspects and social responsibility are equally important. The concepts of automation and greater use of machines, foreseen by early computer theorists such as Norbert Wiener, have become contemporary issues we deal with concerning artificial intelligence, privacy, and the impact of digital technology on our society. The history and development of computing, which has been extensively documented within these three documents, reflects a history of ongoing interaction among the different areas of science, technology, mathematics, and social systems that contributed to the growth of computing's success over time.
 
 ## Historical development and timeline of key events
 (1821)- Charles Babbage first announced the invention of the difference engine in his first calculating paper on 14 June 1822, with about 2000 parts the difference engine number 1 was built by his engineer and master toolmaker Joseph Clement and completed in 1832. This finished portion of the unfinished engine is only one seventh of the complete design. Difference engine Num 2 between 1847 and 1849 Babbage designed a new engine which benefitted from the techniques developed for the more demanding analytical engine, the design was more efficient, requiring one third the number of parts of the first difference engine. 
@@ -52,7 +59,7 @@ Computers were not invented as fast as overnight. Computers were made slowly as 
 
 
 ### Ethical reflections and improvement
-As computing progresses with ages, ethical concerns emerged as part of the challenges faced in the computing industry. In the mathematics and in the scientific world there has been a lot of ethical challenges faced by stake holders in embracing technology and they have impacted the industries negatively. The early ethic challenges were seen as early as the 1950s by Wiener N, who was most concerned that people will tend to rely too much on machines and that with time the ,machines will exceed huma ability. Walter M, (1970) also urged that computer technology created unique ethical problems that require new moral principles and policies. The three main challenges that have been faced in the history of computing are algorithmic bias and fairness, accountability and transparency, digital divide and Access inequality.
+As computing progresses with ages, ethical concerns emerged as part of the challenges faced in the computing industry. In the mathematics and in the scientific world there has been a lot of ethical challenges faced by stake holders in embracing technology and they have impacted the industries negatively. The early ethic challenges were seen as early as the 1950s by Wiener N, who was most concerned that people will tend to rely too much on machines and that with time the ,machines will exceed human ability. Walter M, (1970) also urged that computer technology created unique ethical problems that require new moral principles and policies. The three main challenges that have been faced in the history of computing are algorithmic bias and fairness, accountability and transparency, digital divide and Access inequality.
 
 ### Algorithmic Bias and Fairness:
 Artificial intelligence models and algorithms are fundamental in science and in mathematics. These are developed by people and trained through existing patterns. These may be biased and produce biased results which end up affecting the stakeholders. An example is the hiring system that most companies where artificial intelligence is used to sample out the best fit candidate for the job from scanning through their curriculum vitae’s. As this system has been a good tool for companies, it has however proved of its inaccuracy and some people most deserving of the job get rejected due to their presentation on their curriculum vitae. It the becomes unfair to the industry and the jobseekers. Another example is the bank loan approvals system which follows the pattern of what was fed into it and therefore disadvantage other parts of the society.  
@@ -64,58 +71,73 @@ Some of the advanced artificial intelligence technologies are difficult to under
 The progression of technology in science and mathematics solely aims at improving data driven insights in healthcare, education and finance, however these resources are not available to all the stakeholders. There is a notable gap between the people in the technical industry and other society members. This causes socio-economic discrimination as the few people who are informed technologically tend to benefit more than the others. As of Ireland’s 2026 Budget there is €618 million is allocated to in the Department of Enterprise, to establish new offices and other technological infrastructure. Technology has become a necessity, and governments are investing more into it than other sectors not only in Ireland but all over Europe and other continents too. The new technologies that are introduced are getting more advanced and complicated making it difficult for people who are not in the industry to understand and they end up not benefiting from them. Environmentally, it has been voiced out that the new technological machines that are used in mining are harmful to the environment.
  
 ## Future improvements
-Since technology is part of our societies at present, despite its cons it has helped improve daily lives at large. A few strategies have been put in place since the early 50s to try and contain technologies in an ethical manner. There have been improvements in terms of rules and codes of conducts, however with the way the technological industry is growing there is need for more restrictions. 2021 et.al postulates that “The technology industry is also becoming more introspective, examining its own ethical principles, and exploring how to better manage its size and authority”. This shows that the industry understands the lack of accountability in artificial intelligence and aims at improving each sector. In terms of the environment, there is currently a push in of tech companies to be more involved in energy re usage and to sustain the environment. Companies like Amazon, HubSpot, google just to mention a few have already embraced the idea. In artificial intelligence, increasingly important that AI-powered systems operate under principles that benefit society and avoid issues with bias, fairness, transparency, and explainability. To address issues that have been seen tech industry players establish advisory panels, guiding principles, and the sponsoring of academic programs.
+Since technology is part of our societies at present, despite its cons it has helped improve daily lives at large. A few strategies have been put in place since the early 50s to try and contain technologies in an ethical manner. There have been improvements in terms of rules and codes of conducts, however with the way the technological industry is growing there is need for more restrictions. 2021 et.al postulates that “The technology industry is also becoming more introspective, examining its own ethical principles, and exploring how to better manage its size and authority”. To address issues that have been seen tech industry players establish advisory panels, guiding principles, and the sponsoring of academic programs.
 
+Lack of accountability can be solved if all the stake holders are bound to be accountable for the use of Artifitial Intelligence and Generative AI. Stake holders also need to be aware and avoid relying too much on Artificial intelligence to avoid biases. In the education sector, student should avoid using the Artificial Intelligence outputs wihtou their own added information and have it help in reaserch rather than to do the whole report. Environmentally, people have to be educated on disposing the machines. Improvement in energy efficient devices and promte the use of recycled material where relevent. There  there is currently a push in of tech companies to be more involved in energy re-usage and to sustain the environment. Companies like Amazon, HubSpot, Google just to mention are already striving to to proce environmentally friendly gandgets cars and so forth and so on.
+
+Lastly Digital devide can be spparoached in such a way that the available resources are shared within the states equally to the industries.From educational scholarships to the governemnt bugdet the opportunities should be shared fairly between all departments. There should be codes of conducts put in place that ristrict people who are in tech from advancing in technology and benefiting individuals or just the tech department, but to be distribiuted to everyone equally no matter which industry they work on.  
 
 ## Conclusion
-In conclusion, the noted computer innovations from the first that was innovated until present day. The discussion focused on two main viewpoints, the scientific and the mathematical. The timelines were explained step by step. Challenges that have emerged with technology were noted and explained with examples where necessary. Lastly there are some future recommendations put in place to avoid the ethical challenges that are already in place. 
+
+It is evident from a combined reading of all three documents that the evolution of computing technology should not be thought of simply as an unbroken chain of separate inventions, but rather as an ongoing process, where computing technologies have crystalized from a collective synergy of mathematics, science and society. In addition, through this historical evolution, we see that concepts that were initially not thought of as physically implementable, namely mechanical calculators, Boolean algebra, formal algorithms, calculation models—have successively been realized in tangible form as machines or highly sophisticated digital systems capable of performing billions of calculations per second. This transition from abstract thought to functional machine was only possible because of mathematics (i.e., logical framework) and science (i.e., tools and knowledge) enabling the transition of a concept to a functional system.
+
+From a scientific standpoint, each major breakthrough relied not only on engineering but also on fundamental theories. The transistor emerged from quantum physics; integrated circuits required knowledge of microelectronics; digital communication is rooted in information theory; and quantum computing depends entirely on the study of qubits, superposition, and quantum behavior. The mathematical perspective reinforces this understanding by showing that every component of modern computing—from basic algorithms to global networking systems—is grounded in areas such as algebra, functions, graph theory, probability, computational geometry, and logical structures.
+
+At the same time, the ethical reflections presented in the documents show that technological growth brings both opportunities and challenges. Wiener noted that the concern about automation in employment and our dependency on machines is not a new concern. Since the creation of digital systems that are based on math and computers, there is also growing concern with issues relating to disinformation, protecting individual privacy, and upholding social responsibilities associated with these digital platforms. These issues will require us to put not just technical innovation but also a good understanding of the ethical implications of technology and its governance to develop a system that works to benefit society as a whole.
+
+In essence, the three documents demonstrate that computing is a dynamic and continually evolving field shaped by mathematical ideas, scientific discoveries, and societal needs. Its past highlights human ingenuity, its present reflects its global importance, and its future remains open calling for a balanced approach that integrates innovation, ethics, and knowledge to guide the next generations of technological development.
+
 
 ## References:
-Norbert Wiener The Human Use of Human Beings (1950)
 
-https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
 
-Paul H Silvergate 2021 
+Alan Turing. (1936). Computer Science – Evolution of computers in society. https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Alan+Turing.+%281936%29.+Computer+Science+%E2%80%93+Evolution+of+computers+in+society.+&btnG=
 
-https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
-
-Charles Babbage engine 
-
-https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum 
-
-ENIAC 
-
-https://www.computerhistory.org/revolution/birth-of-the-computer/4/78 
-
-https://www.eniac.vc/writings/remembering-the-eniac-six 
-
-Transistors 
-Bardeen, J., Brattain, W., Shockley, W., & Bell Labs. (n.d.). Computer Science – Evolution of Computers in Society. In Early Computers and Computing Technology. 
-
-https://curriculumonline.ie/getmedia/718bd569-5822-4795-b606-fc659c7159fb/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-solid-state.pdf 
-
-The evolution of transistors: from vacuum tubes to modern semiconductors | Syntero blog. (n.d.). 
-
-https://syntero.webflow.io/blog/the-evolution-of-transistors-from-vacuum-tubes-to-modern-semiconductors 
-
-Integrated circuit (IC)  
-
-https://anysilicon.com/history-integrated-circuit/ 
-
-Quantum Supremacy 
-
-Quantum supremacy SpinQ Quantum Computer | Quantum Computing Company | SpinQ technology. (n.d.). 
-
-https://www.spinquanta.com/news-detail/quantum-computing-research-pioneering-the-future-of-tech202501161051 
-
-World wide web 
+Bardeen, J., Brattain, W., Shockley, W., & Bell Labs. (n.d.). Computer Science – Evolution of Computers in Society. In Early Computers and Computing Technology.
+ 
+Charles Babbage. https://www.sciencemuseum.org.uk/objects-and-stories/charles-babbages-difference-engines-and-science-museum 
 
 Connolly, C. (2025, May 21). Understanding the World Wide Web in 2024: Evolution and future. ProfileTree Web Design and Digital Marketing. 
 
+ENIAC https://www.computerhistory.org/revolution/birth-of-the-computer/4/78 
+
+https://arrow.tudublin.ie/cgi/viewcontent.cgi?article=1014&context=scschcomrep
+
+https://curriculumonline.ie/getmedia/718bd569-5822-4795-b606-fc659c7159fb/NCCA-The-
+Evolution-of-Computers-in-Society-LC-SC-solid-state.pdf 
+
 https://profiletree.com/what-is-the-world-wide-web/ 
 
-Alan Turing. (1936). Computer Science – Evolution of computers in society. 
+https://syntero.webflow.io/blog/the-evolution-of-transistors-from-vacuum-tubes-to-modern-semiconductors 
 
+https://www.eniac.vc/writings/remembering-the-eniac-six Transistors 
+
+https://www.spinquanta.com/news-detail/quantum-computing-research-pioneering-the-future-of-tech202501161051 
+
+Integrated circuit (IC).https://anysilicon.com/history-integrated-circuit/ 
+Norbert Wiener The Human Use of Human Beings (1950).https://www.britannica.com/science/control-theory-mathematics/Control-of-large-systems
+
+Paul H Silvergate 2021 https://www.deloitte.com/us/en/insights/industry/technology/ethical-dilemmas-in-technology.html
+
+Quantum supremacy SpinQ Quantum Computer | Quantum Computing Company | SpinQ technology. (n.d.). https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Quantum+supremacy+SpinQ+Quantum+Computer+%7C+Quantum+Computing+Company+%7C+SpinQ+technology.+%28n.d.%29.&btnG=
+
+The evolution of transistors: from vacuum tubes to modern semiconductors | Syntero blog. (n.d.). https://pubs.aip.org/avs/jvb/article-abstract/30/6/060801/103375/Historical-development-and-future-trends-of-vacuum?redirectedFrom=fulltext
+
+Walter M, (1970)https://scholar.google.com/scholar?q=Walter+M,+(1970)&hl=en&as_sdt=0&as_vis=1&oi=scholart
+ 
 https://curriculumonline.ie/getmedia/96dfcf0a-8373-48d3-9662-714ab8c8a428/NCCA-The-Evolution-of-Computers-in-Society-LC-SC-the-turing-machine.pdf?utm_source=chatgpt.com 
+
+https://www.britannica.com/technology/ENIAC
+
+https://www.electronics-tutorials.ws/logic/logic-gates-using-transistors.html
+
+https://www.coursehero.com/study-guides/zeliite115/reading-random-access-memory
+
+https://www.parc.com/innovations/gui/
+
+https://www.britannica.com/technology/3D-printing
+
+https://www.internetsociety.org/internet/history-of-the-internet
+
 
 
